@@ -4,12 +4,12 @@ import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAy1PR1bLrvOCZmcDWTn9KUCEih6hPju2o",
-  authDomain: "fir-600e1.firebaseapp.com",
-  projectId: "fir-600e1",
-  storageBucket: "fir-600e1.firebasestorage.app",
-  messagingSenderId: "185076290689",
-  appId: "1:185076290689:web:6b2fd9f9c51e637659a980",
+  apiKey: "AIzaSyAmBNqAZTetnHXCQq_z_Powp_pjZr9hdTc",
+  authDomain: "hazzazi-e4d41.firebaseapp.com",
+  projectId: "hazzazi-e4d41",
+  storageBucket: "hazzazi-e4d41.firebasestorage.app",
+  messagingSenderId: "312984936695",
+  appId: "1:312984936695:web:51762718f067a01484f3f2",
 }
 
 // Initialize Firebase only if it hasn't been initialized yet
