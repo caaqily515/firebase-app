@@ -3,13 +3,12 @@ import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAK-JPX0p9h_aOs8O7a_fdUKD1X6J5BMwY",
-  authDomain: "fir-login-6605c.firebaseapp.com",
-  databaseURL: "https://fir-login-6605c.firebaseio.com",
-  projectId: "fir-login-6605c",
-  storageBucket: "fir-login-6605c.firebasestorage.app",
-  messagingSenderId: "581631828835",
-  appId: "1:581631828835:web:30220a43f95b7ba56e6956"
+   apiKey: "AIzaSyAmBNqAZTetnHXCQq_z_Powp_pjZr9hdTc",
+  authDomain: "hazzazi-e4d41.firebaseapp.com",
+  projectId: "hazzazi-e4d41",
+  storageBucket: "hazzazi-e4d41.firebasestorage.app",
+  messagingSenderId: "312984936695",
+  appId: "1:312984936695:web:51762718f067a01484f3f2",
 };
 
 // Initialize Firebase only if it hasn't been initialized already
