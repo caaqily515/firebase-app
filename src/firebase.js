@@ -4,12 +4,12 @@ import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAVjvJxHhzwRxYGVsxH_omz8GKiPAPxZVE",
-  authDomain: "modern-login-81611.firebaseapp.com",
-  projectId: "modern-login-81611",
-  storageBucket: "modern-login-81611.appspot.com",
-  messagingSenderId: "1021661593796",
-  appId: "1:1021661593796:web:2f2d2ef44d875c0b0d7f88"
+  apiKey: "AIzaSyAy1PR1bLrvOCZmcDWTn9KUCEih6hPju2o",
+  authDomain: "fir-600e1.firebaseapp.com",
+  projectId: "fir-600e1",
+  storageBucket: "fir-600e1.firebasestorage.app",
+  messagingSenderId: "185076290689",
+  appId: "1:185076290689:web:6b2fd9f9c51e637659a980",
 }
 
 // Initialize Firebase only if it hasn't been initialized yet
